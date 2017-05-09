@@ -1,0 +1,50 @@
+
+.encabezado
+{
+	background-color: green;
+	 border: 2px solid red;
+}
+.name
+{
+	text-align: center;
+	
+}
+.pic
+{
+	width: 50%; 
+	
+	 float: left;
+	 background-image: url(images/luna_orig.jpg);
+
+}
+.imge
+{	
+	width: 50%;
+	 border-radius: 50%
+}
+.info
+{
+	width: 50%; 
+	background-color: yellow;
+	 float: right;
+}
+@import url(http://fonts.googleapis.com/css?family=Julius+Sans+One);
+.datos
+{
+	font-size: 5;
+	 color: brown;
+	 text-align: justify;
+	 font-family: monospace;
+}
+.adi
+{
+	width: 100%; 
+	background-color: skyblue;
+	 float: right;
+
+}
+.address
+{
+	font-size: 2; color: black; 
+   
+}
